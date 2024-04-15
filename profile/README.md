@@ -1,4 +1,13 @@
 ## Hi there 👋
+Welcome to the main repository for the Robomasters team Owltech.
+
+We are a group of robotics enthusiasts based in Guadalajara, Mexico!
+
+## What can I find in here?
+
+## Our History
+
+### Foundation
 
 <!--
 
